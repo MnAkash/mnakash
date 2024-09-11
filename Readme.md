@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" height="300" src="img/ProjectsShow.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnakash&label=Profile%20views&color=0e75b6&style=flat" alt="mnakash" /> </p>
 
-- 🔭 I’m currently working on **investigating research possibilities for mitigating noise within fetal movement sensor data.**
+- 🔭 I’m currently working on **Working on a NIH funded project to help patients with dementia with a mobile robot**
 
 - 🌱 I’m currently learning **ROS2 Based RTK GPS Naviagation**
 
