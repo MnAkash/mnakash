@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" height="300" src="img/ProjectsShow.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnakash&label=Profile%20views&color=0e75b6&style=flat" alt="mnakash" /> </p>
 
-- 🔭 I’m currently working on **NIH funded project to help patients with dementia with a mobile robot**
+- 🔭 I’m currently working on **NIH funded project to help patients with dementia with Hello Robot's Stretch3**
 
 - 🌱 I’m currently learning **PDDL for robot planning and ROS2 Based RTK GPS Naviagation**
 
-- 💬 Feel free to ask me about **Robot Operating System**
+- 💬 Feel free to ask me about **Robot Operating System, Imitation Learning, 3D Reconstruction**
 
 - 📫 How to reach me **moniruzzaman.akash@unh.edu**
 
